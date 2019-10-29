@@ -1,0 +1,9 @@
+//Se crea este archivo para compilar es6 en es5
+//ES=ECMASCRIPT
+
+{ 
+    "presets": [ 
+        "env", 
+        "stage-0" 
+    ] 
+}
